@@ -7,7 +7,16 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "oxid-esales/oxideshop-metapackage-ce": "v6.2.2"
+    "oxid-esales/oxideshop-metapackage-ce": "v6.2.2",
+    "d3/oxid-test-replacement": "^1.0",
+    "d3/oxid-paypal-replacement": "^1.0",
+    "d3/oxid-payone-replacement": "^1.0",
+    "d3/oxid-paymorrow-replacement": "^1.0",
+    "d3/oxid-klarna-replacement": "^1.0",
+    "d3/oxid-amazonpay-replacement": "^1.0",
+    "d3/oxideshop-demodata-ce-replacement": "^1.0",
+    "d3/oxid-wysiwyg-replacement": "^1.0",
+    "d3/oxid-wave-theme-replacement": "^1.0"
   },
   "require-dev": {
     "oxid-esales/testing-library": "^v7.1.1",
