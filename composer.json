@@ -15,6 +15,19 @@
     "oxid-esales/oxideshop-ide-helper": "^v3.1.2",
     "oxid-esales/azure-theme": "^v1.4.2"
   },
+  "replace": {
+    "oxid-esales/testing-library": "*",
+    "oxid-esales/coding-standards": "*",
+    "incenteev/composer-parameter-handler": "*",
+    "oxid-esales/oxideshop-ide-helper": "*",
+    "oxid-esales/azure-theme": "*",
+    "bestit/amazonpay4oxid": "*",
+    "ddoe/wysiwyg-editor-module": "*",
+    "oxid-esales/paymorrow-module": "*",
+    "oxid-esales/paypal-module": "*",
+    "oxid-esales/wave-theme": "*",
+    "payone-gmbh/oxid-6": "*"
+  },
   "autoload-dev": {
     "psr-4": {
       "OxidEsales\\EshopCommunity\\Tests\\": "./vendor/oxid-esales/oxideshop-ce/tests"
